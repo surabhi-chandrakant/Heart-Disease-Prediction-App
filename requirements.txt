@@ -22,7 +22,7 @@ catalogue==2.0.10
 certifi==2024.8.30
 cffi==1.17.0
 charset-normalizer==3.3.2
-chatterbot-corpus==1.2.0
+#chatterbot-corpus==1.2.0
 click==8.1.7
 colorama==0.4.6
 comm==0.2.2
@@ -151,7 +151,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-json-logger==2.0.7
 pytz==2024.2
-PyYAML==6.0.1
+PyYAML==3.13
 pyzmq==26.1.1
 qtconsole==5.5.2
 QtPy==2.4.1
