@@ -11,7 +11,7 @@ from imblearn.over_sampling import SMOTE
 # Load the dataset with st.cache_data (for caching data)
 @st.cache_data
 def load_data():
-    data = pd.read_csv("E:\\job related docs\\Feyann LAB\\heart_disease_uci.csv")  # Replace with the actual dataset path
+    data = pd.read_csv("E:\\job related docs\\Feyann LAB\\MedvisionAIapp\\heart_disease_uci.csv")  # Replace with the actual dataset path
     return data
 
 data = load_data()
